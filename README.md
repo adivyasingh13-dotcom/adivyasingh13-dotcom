@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**adivyasingh13-dotcom/adivyasingh13-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adivya 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech IT Student from India  
+💻 Exploring AI, Java, DSA & Open Source  
+🚀 GSSoC'26 Contributor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Operating Systems
+- Databases
+- Artificial Intelligence
+- Git & GitHub
+
+## 🛠 Languages & Tools
+- Java
+- Python
+- Git
+- GitHub
+- HTML/CSS
+
+## 🎯 2026 Goals
+- Improve problem solving
+- Contribute to Open Source
+- Build real projects
+- Gain internship experience
